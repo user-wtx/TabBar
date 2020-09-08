@@ -1,6 +1,7 @@
 # tabbar
 
 > A Vue.js project
+TabBar脚手架
 
 ## Build Setup
 
